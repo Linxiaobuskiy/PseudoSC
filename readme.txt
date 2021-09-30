@@ -22,4 +22,4 @@ functions:
 3. DataPretreatment: Pretreat the input data for deconvolution.
 4. PseudoSC: main function of deconvolution.
 5. cvxDC: The module functions of main function.
-5 nmf_main: NMF method for deconvolution.
+6. nmf_main: NMF method for deconvolution.
